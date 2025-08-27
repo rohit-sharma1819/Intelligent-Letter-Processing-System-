@@ -1,0 +1,14 @@
+flask
+opencv-python
+numpy
+werkzeug
+flask
+opencv-python
+pytesseract
+numpy
+flask
+pytesseract
+Pillow
+opencv-python
+numpy
+werkzeug
